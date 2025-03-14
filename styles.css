@@ -1,0 +1,49 @@
+h1 ,#header{
+    text-align: center;
+    background-color: rgb(201, 129, 42);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.odinpic {
+    width: 700px;
+    height: 300px;
+    margin: auto;
+}
+
+.pic {
+    text-align: center;
+}
+
+
+h2, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(201, 129, 42);
+}
+
+h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p, ol, ul {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.name {
+    font-size: 14px;
+    font-weight: 100;
+    margin-top: -20px;
+    color: white;
+}
+
+.hello {
+    text-decoration: none;
+    color: white;
+}
+
+.menu {
+    text-align: center;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
